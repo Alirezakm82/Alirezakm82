@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi there 👋, my name is Alireza
+### my name is Alireza 👋
 ####  Front end developer
 Front end developer with experience in building beautiful and interactive websites.
 
